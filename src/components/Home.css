@@ -1,0 +1,25 @@
+.btn-space {
+    margin-right: 5px;
+}
+
+.btn-call {
+    color: white;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 480px) {
+    .jumbotron {
+        margin-top: 3em;
+    }
+    .learn-more {
+        display: none;
+    }
+  }
