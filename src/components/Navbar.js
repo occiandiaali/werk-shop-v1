@@ -18,18 +18,18 @@ const Navbar = () => {
         <a className="nav-link"><Link to="/about">About <span className="sr-only">(current)</span></Link></a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">For Employers</a>
+        <a className="nav-link"><Link to="/hirer-info">For Employers</Link></a>
       </li>
       <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Available Werk
+          Categories
         </a>
         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a className="dropdown-item" href="#">Automotive</a>
-          <a className="dropdown-item" href="#">Domestic</a>
-          <a className="dropdown-item" href="#">Electrical</a>
-          <a className="dropdown-item" href="#">Arts &amp; Craft</a>
-          <a className="dropdown-item" href="#">Academic</a>
+          <a className="dropdown-item"><Link to="/automotive">Automotive</Link></a>
+          <a className="dropdown-item"><Link to="/domestic">Domestic</Link></a>
+          <a className="dropdown-item"><Link to="/electrical">Electrical</Link></a>
+          <a className="dropdown-item"><Link to="/artcraft">Arts &amp; Craft</Link></a>
+          <a className="dropdown-item"><Link to="/academic">Academic</Link></a>
         </div>
       </li>
     </ul>
