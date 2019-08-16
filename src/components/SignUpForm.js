@@ -10,7 +10,7 @@ const SignUp = () => {
                     <div className="col-md-3 register-left">
                         <img src={wsLogo} alt="Logo" />
                         <h3>Welcome</h3>
-                        <p>Select the relevant form to either find werk or werkers</p>
+                        <p>Select the relevant form to either find werk or hire werkers</p>
                         <img src={logo} alt="Logo"  id="logo-img"/>
                     </div>
                     <div className="col-md-9 register-right">
@@ -57,7 +57,7 @@ const SignUp = () => {
                                             <input type="email" className="form-control" placeholder="Your Email *" value="" />
                                         </div>
                                         <div className="form-group">
-                                            <input type="text" minlength="10" maxlength="10" name="txtEmpPhone" className="form-control" placeholder="Your Phone *" value="" />
+                                            <input type="text" minLength="10" maxlength="10" name="txtEmpPhone" className="form-control" placeholder="Your Phone *" value="" />
                                         </div>
                                         <div className="form-group">
                                             <h4>Upload an image of you</h4>
@@ -81,7 +81,7 @@ const SignUp = () => {
                                             <input type="email" className="form-control" placeholder="Email *" value="" />
                                         </div>
                                         <div className="form-group">
-                                            <input type="text" maxlength="10" minlength="10" className="form-control" placeholder="Phone *" value="" />
+                                            <input type="text" maxLength="10" minlength="10" className="form-control" placeholder="Phone *" value="" />
                                         </div>
 
 

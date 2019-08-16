@@ -5,13 +5,13 @@ const Footer = () => {
         <div>
     <ul className="nav justify-content-center">
     <li className="nav-item">
-      <a className="nav-link" href="#">Terms</a>
+      <a className="nav-link" >Terms</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link" href="#">Social Media</a>
+      <a className="nav-link" >Social Media</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link" href="#">qoboqo &copy; 2019 - 2022</a>
+      <a className="nav-link" >qoboqo &copy; 2019 - 2022</a>
     </li>  
   </ul>
         </div>

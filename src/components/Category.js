@@ -13,7 +13,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -24,7 +24,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div> 
 
@@ -35,7 +35,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -46,7 +46,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>
 
@@ -60,7 +60,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -71,7 +71,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div> 
 
@@ -82,7 +82,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -93,7 +93,7 @@ const Category = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div> 
 

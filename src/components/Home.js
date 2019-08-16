@@ -10,7 +10,7 @@ const Home = () => {
         <p className="lead">This is a simple way to help people who need your skills/talents find you.</p>
 
         <p className="learn-more">It uses a basic "demand &amp; supply" approach. Employers demand for skills like yours, and you supply it.</p>
-          <a className="btn btn-outline-primary btn-lg btn-space learn-more" href="#" role="button">Learn more &raquo;</a>
+          <a className="btn btn-outline-primary btn-lg btn-space learn-more" role="button">Learn more &raquo;</a>
           <button className="btn btn-primary btn-lg">Register for free</button>
       </div>
 
@@ -22,7 +22,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -33,7 +33,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div> 
 
@@ -44,7 +44,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -55,7 +55,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>
 
@@ -69,7 +69,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -80,7 +80,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div> 
 
@@ -91,7 +91,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div>  
 
@@ -102,7 +102,7 @@ const Home = () => {
             <div className="card-body">
               <h5 className="card-title">Any Wok</h5>
               <p className="card-text">Some dummy text</p>
-              <a href="#" className="btn btn-outline-primary stretched-link">See more</a>
+              <a className="btn btn-outline-primary stretched-link">See more</a>
             </div>
           </div> 
 
